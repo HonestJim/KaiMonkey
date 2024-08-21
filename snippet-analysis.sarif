@@ -10,7 +10,512 @@
           "informationUri": "https://example.com"
         }
       },
-      "results": []
+      "results": [
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Unknown License"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "AGPL-3.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: GNU Affero General Public License v3.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 20
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Unknown License"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Unknown License"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 20
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (Common Public License 1.0 AND GNU General Public License v2.0 or later AND Apache License 2.0 AND W3C Software Notice and License (2002-12-31) AND Mozilla Public License 2.0 AND GNU Lesser General Public License v2.1 or later AND Eclipse Public License 1.0)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (GNU Affero General Public License v3.0 AND GNU General Public License v3.0 or later)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "LGPL-3.0-or-later",
+          "level": "warning",
+          "message": {
+            "text": "License match found: GNU Lesser General Public License v3.0 or later"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 20
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "EPL-1.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Eclipse Public License 1.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "MIT",
+          "level": "warning",
+          "message": {
+            "text": "License match found: MIT License"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "MIT",
+          "level": "warning",
+          "message": {
+            "text": "License match found: MIT License"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "MIT",
+          "level": "warning",
+          "message": {
+            "text": "License match found: MIT License"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 31
+                }
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }

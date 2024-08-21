@@ -8,7 +8,7 @@ module "network" {
   environment  = var.environment
   default_tags = var.default_tags
 }
-# I am a comment
+# I am a comment isn't that neat
 module "storage" {
   source         = "./modules/storage"
   private_subnet = module.network.private_subnet

@@ -26,7 +26,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -47,28 +47,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "AGPL-3.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU Affero General Public License v3.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -96,10 +75,10 @@
           ]
         },
         {
-          "ruleId": "unknown",
+          "ruleId": "AGPL-3.0",
           "level": "warning",
           "message": {
-            "text": "License match found: Unknown License"
+            "text": "License match found: GNU Affero General Public License v3.0"
           },
           "locations": [
             {
@@ -110,7 +89,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -130,8 +109,8 @@
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
-                  "startLine": 4,
-                  "endLine": 28
+                  "startLine": 3,
+                  "endLine": 30
                 }
               }
             }
@@ -152,7 +131,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -173,7 +152,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -194,7 +173,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -215,49 +194,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "GPL-3.0-only",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU General Public License v3.0 only"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "GPL-3.0-only",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU General Public License v3.0 only"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
+                  "endLine": 20
                 }
               }
             }
@@ -278,7 +215,28 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "unknown",
+          "level": "warning",
+          "message": {
+            "text": "License match found: (GNU Affero General Public License v3.0 AND GNU General Public License v3.0 or later)"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 30
                 }
               }
             }
@@ -299,28 +257,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 21
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "LGPL-3.0-or-later",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU Lesser General Public License v3.0 or later"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
+                  "endLine": 20
                 }
               }
             }
@@ -341,70 +278,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "LGPL-3.0-or-later",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU Lesser General Public License v3.0 or later"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "EPL-1.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Eclipse Public License 1.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "LGPL-3.0-or-later",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU Lesser General Public License v3.0 or later"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
+                  "endLine": 30
                 }
               }
             }
@@ -425,70 +299,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "Apache-2.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Apache License 2.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "Apache-2.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Apache License 2.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "Apache-2.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Apache License 2.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 21
+                  "endLine": 30
                 }
               }
             }
@@ -509,49 +320,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "Apache-2.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Apache License 2.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "Apache-2.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Apache License 2.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -572,7 +341,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -593,7 +362,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 21
+                  "endLine": 30
                 }
               }
             }
@@ -614,28 +383,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 21
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "Apache-2.0",
-          "level": "warning",
-          "message": {
-            "text": "License match found: Apache License 2.0"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -656,7 +404,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 30
                 }
               }
             }
@@ -677,7 +425,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 21
+                  "endLine": 30
                 }
               }
             }
@@ -698,7 +446,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 21
+                  "endLine": 30
                 }
               }
             }
@@ -719,7 +467,70 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 21
+                  "endLine": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 20
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "Apache-2.0",
+          "level": "warning",
+          "message": {
+            "text": "License match found: Apache License 2.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ".snippet-licenses/DashboardControllerTest.java-snippet-analysis.json",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 3,
+                  "endLine": 30
                 }
               }
             }

@@ -16,7 +16,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             21
@@ -40,7 +40,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             3
@@ -65,7 +65,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             21
@@ -114,7 +114,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             3
@@ -125,26 +125,26 @@
         }
       },
       {
-        "projectName": "skprasadu/spring-mvc-rest",
-        "releaseVersion": "20121022-snapshot-eb316d47",
+        "projectName": "OPUS-College",
+        "releaseVersion": "20170308-snapshot-a0bb2480",
         "licenseDefinition": {
           "name": "Unknown License",
           "ownership": "UNKNOWN",
           "licenseDisplayName": "Unknown License"
         },
-        "matchedFilePath": "/spring-mvc-rest-eb316d47550da824fdd4bdeff7f2454b53df4f33/src/test/java/com/goSmarter/activiti/loanrequest/web/LoanRequestControllerWithSpringTestMvcTest.java",
+        "matchedFilePath": "/college/src/test/java/org/uci/opus/college/web/flow/StudentPersonalEditControllerTest.java",
         "regions": {
           "sourceStartLines": [
-            4
+            3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
-            15
+            3
           ],
           "matchedEndLines": [
-            38
+            24
           ]
         }
       }
@@ -162,7 +162,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             20
@@ -184,7 +184,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             20
@@ -206,35 +206,13 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             19
           ],
           "matchedEndLines": [
             49
-          ]
-        }
-      },
-      {
-        "projectName": "naver/pinpoint",
-        "releaseVersion": "1.6.1-RC1",
-        "licenseDefinition": {
-          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
-        },
-        "matchedFilePath": "/pinpoint-ec5ac8936a86c6a78058ea61e17c72b149417e85/web/src/test/java/com/navercorp/pinpoint/web/controller/UserGroupControllerTest.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            28
-          ],
-          "matchedStartLines": [
-            20
-          ],
-          "matchedEndLines": [
-            59
           ]
         }
       },
@@ -253,7 +231,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             4
@@ -278,7 +256,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             4
@@ -289,24 +267,24 @@
         }
       },
       {
-        "projectName": "OpenESPI-ThirdParty-java",
-        "releaseVersion": "tesla_rc3c",
+        "projectName": "naver/pinpoint",
+        "releaseVersion": "1.6.1-RC1",
         "licenseDefinition": {
-          "licenseDisplayName": "(Common Public License 1.0 AND GNU General Public License v2.0 or later AND Apache License 2.0 AND W3C Software Notice and License (2002-12-31) AND Mozilla Public License 2.0 AND GNU Lesser General Public License v2.1 or later AND Eclipse Public License 1.0)"
+          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
         },
-        "matchedFilePath": "/OpenESPI-ThirdParty-java-tesla_rc3c/src/test/java/org/energyos/espi/thirdparty/integration/MeterReadingTests.java",
+        "matchedFilePath": "/pinpoint-ec5ac8936a86c6a78058ea61e17c72b149417e85/web/src/test/java/com/navercorp/pinpoint/web/controller/UserGroupControllerTest.java",
         "regions": {
           "sourceStartLines": [
             3
           ],
           "sourceEndLines": [
-            28
+            20
           ],
           "matchedStartLines": [
-            19
+            20
           ],
           "matchedEndLines": [
-            41
+            44
           ]
         }
       }
@@ -377,7 +355,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             4
@@ -479,7 +457,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             4
@@ -579,7 +557,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             3
@@ -604,7 +582,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             10
@@ -629,7 +607,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             10
@@ -654,7 +632,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             5
@@ -715,6 +693,31 @@
         }
       },
       {
+        "projectName": "Spring Security",
+        "releaseVersion": "4.0.0.RC2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/spring-security-bbce00b4a66193891700c57922d253190844e76d/config/src/test/java/org/springframework/security/config/annotation/web/configuration/WebMvcSecurityConfigurationTests.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            21
+          ],
+          "matchedStartLines": [
+            18
+          ],
+          "matchedEndLines": [
+            46
+          ]
+        }
+      },
+      {
         "projectName": "Thymeleaf",
         "releaseVersion": "thymeleafexamples-petclinic-20130317",
         "licenseDefinition": {
@@ -729,7 +732,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             20
@@ -754,7 +757,7 @@
             3
           ],
           "sourceEndLines": [
-            28
+            29
           ],
           "matchedStartLines": [
             5
@@ -786,31 +789,6 @@
           ],
           "matchedEndLines": [
             43
-          ]
-        }
-      },
-      {
-        "projectName": "Spring Security",
-        "releaseVersion": "4.0.0.RC2",
-        "licenseDefinition": {
-          "name": "Apache License 2.0",
-          "spdxId": "Apache-2.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Apache License 2.0"
-        },
-        "matchedFilePath": "/spring-security-bbce00b4a66193891700c57922d253190844e76d/config/src/test/java/org/springframework/security/config/annotation/web/configuration/WebMvcSecurityConfigurationTests.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            21
-          ],
-          "matchedStartLines": [
-            18
-          ],
-          "matchedEndLines": [
-            46
           ]
         }
       },
